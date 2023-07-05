@@ -2,7 +2,7 @@
   "inverters": [
     {
       "name": "saisundram-inv1",
-      "slaveId": 1,
+      "slaveId": 4,
       "slaveType":"RTU",
       "functionCode": 4,
       "slaveIp" : "192.168.1.138",
@@ -13,14 +13,14 @@
    "registers": [
         {
           "start": 0,
-          "count": 52
+          "count": 51
         }
 
   ]
 },
    {
       "name": "saisundram-inv2",
-      "slaveId": 2,
+      "slaveId": 5,
       "slaveType":"RTU",
       "functionCode": 4,
       "slaveIp" : "192.168.1.138",
@@ -31,7 +31,7 @@
    "registers": [
         {
           "start": 0,
-          "count": 52
+          "count": 51
         }
 
   ]
