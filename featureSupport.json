@@ -1,0 +1,11 @@
+{
+  "pins": [17,16],
+  "ledpins":21,
+  "customername":"saisundram",
+  "ftmodbus": "y",
+  "ftjson": "n",
+  "ftzed": "n",
+  "interval": 10,
+  "ftmqttcontrol": "n",
+  "ftbtcontrol": "n"
+}

@@ -1,0 +1,41 @@
+{
+  "inverters": [
+    {
+      "name": "saisundram-inv1",
+      "slaveId": 1,
+      "slaveType":"RTU",
+      "functionCode": 4,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+   "registers": [
+        {
+          "start": 0,
+          "count": 52
+        }
+
+  ]
+},
+   {
+      "name": "saisundram-inv2",
+      "slaveId": 1,
+      "slaveType":"RTU",
+      "functionCode": 4,
+      "slaveIp" : "192.168.1.138",
+      "baudRate": 9600,
+      "dataBits": 8,
+      "stopBits": 1,
+      "parity": "none",
+   "registers": [
+        {
+          "start": 0,
+          "count": 52
+        }
+
+  ]
+}
+]
+}
+
