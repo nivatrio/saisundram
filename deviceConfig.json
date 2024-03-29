@@ -1,6 +1,7 @@
 {
       "name": "saisundram",
       "deviceId": 1,
+         "debug": "y",
       "deviceType": "solar"
 }
 
